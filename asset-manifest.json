@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/personal-portfolio/static/css/main.d564fd31.css",
+    "main.js": "/personal-portfolio/static/js/main.748826bd.js",
+    "static/js/964.6b3de020.chunk.js": "/personal-portfolio/static/js/964.6b3de020.chunk.js",
+    "static/js/117.c937aceb.chunk.js": "/personal-portfolio/static/js/117.c937aceb.chunk.js",
+    "static/js/478.552e7bff.chunk.js": "/personal-portfolio/static/js/478.552e7bff.chunk.js",
+    "static/js/922.950c5cf1.chunk.js": "/personal-portfolio/static/js/922.950c5cf1.chunk.js",
+    "static/js/161.d660dc71.chunk.js": "/personal-portfolio/static/js/161.d660dc71.chunk.js",
+    "static/js/18.87e031d7.chunk.js": "/personal-portfolio/static/js/18.87e031d7.chunk.js",
+    "static/js/191.b08d7164.chunk.js": "/personal-portfolio/static/js/191.b08d7164.chunk.js",
+    "static/js/209.04592873.chunk.js": "/personal-portfolio/static/js/209.04592873.chunk.js",
+    "static/js/625.15f2cbb9.chunk.js": "/personal-portfolio/static/js/625.15f2cbb9.chunk.js",
+    "static/js/773.d56afb2f.chunk.js": "/personal-portfolio/static/js/773.d56afb2f.chunk.js",
+    "static/media/about.md": "/personal-portfolio/static/media/about.6e19a79687c54156d9bf.md",
+    "index.html": "/personal-portfolio/index.html",
+    "main.d564fd31.css.map": "/personal-portfolio/static/css/main.d564fd31.css.map",
+    "main.748826bd.js.map": "/personal-portfolio/static/js/main.748826bd.js.map",
+    "964.6b3de020.chunk.js.map": "/personal-portfolio/static/js/964.6b3de020.chunk.js.map",
+    "117.c937aceb.chunk.js.map": "/personal-portfolio/static/js/117.c937aceb.chunk.js.map",
+    "478.552e7bff.chunk.js.map": "/personal-portfolio/static/js/478.552e7bff.chunk.js.map",
+    "922.950c5cf1.chunk.js.map": "/personal-portfolio/static/js/922.950c5cf1.chunk.js.map",
+    "161.d660dc71.chunk.js.map": "/personal-portfolio/static/js/161.d660dc71.chunk.js.map",
+    "18.87e031d7.chunk.js.map": "/personal-portfolio/static/js/18.87e031d7.chunk.js.map",
+    "191.b08d7164.chunk.js.map": "/personal-portfolio/static/js/191.b08d7164.chunk.js.map",
+    "209.04592873.chunk.js.map": "/personal-portfolio/static/js/209.04592873.chunk.js.map",
+    "773.d56afb2f.chunk.js.map": "/personal-portfolio/static/js/773.d56afb2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d564fd31.css",
+    "static/js/main.748826bd.js"
+  ]
+}
