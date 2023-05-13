@@ -48,3 +48,4 @@
 
 - [MICHAEL D'ANGELO](https://mldangelo.com/)
 - [ASIF KARIM](https://asif-karim.vercel.app)
+- [ALAN HARO](https://aharo.netlify.app/)
