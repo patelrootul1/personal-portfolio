@@ -12,6 +12,17 @@ const data = [
       + 'The Accuracy of the model was 88%',
   },
   {
+    title: 'Conestoga Ticket Reservation Application',
+    subtitle: 'C# WPF Framework',
+    link: 'https://github.com/patelrootul1/Conestoga_Seat_Reservation',
+    image: '/images/projects/Movie_Reservation.jpg',
+    date: '2022-06-25',
+    desc:
+      'Implemented C# WPF Framework for reservation system;'
+      + 'Used Object Oriented Programming by creating seat class for leveraging MVC design pattern;'
+      + 'Implemented XML Serialization/Deserialization for saving the reservation locally.',
+  },
+  {
     title: 'Reaction timer using Vue.js',
     subtitle: 'JavaScript Framework-Vue.js',
     link: 'https://reaction-timer-1796f.web.app/',
