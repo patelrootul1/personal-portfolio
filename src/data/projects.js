@@ -23,6 +23,17 @@ const data = [
       + 'Implemented XML Serialization/Deserialization for saving the reservation locally.',
   },
   {
+    title: 'Android Grading App',
+    subtitle: 'Implemented Android application using Java',
+    link: 'https://github.com/patelrootul1/GradingApp',
+    image: '/images/projects/Grading.jpg',
+    date: '2022-12-05',
+    desc:
+      'Implemented CRUD database using Sqlite for effective storage of database;'
+      + 'Used Object Oriented Programming by creating student class which would allow storing data using object;'
+      + 'Implemented Navigation Drawer, Recycler view and Fragments for smooth operations.',
+  },
+  {
     title: 'Reaction timer using Vue.js',
     subtitle: 'JavaScript Framework-Vue.js',
     link: 'https://reaction-timer-1796f.web.app/',
