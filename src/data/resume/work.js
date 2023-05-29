@@ -38,19 +38,6 @@ const work = [
       'Excelled in a summer internship during 2nd year B. Tech studies, delivering valuable contributions with excellent communication skills.',
     ],
   },
-  {
-    name: 'Walmart Canada',
-    position: 'Produce Associate',
-    url: 'https://www.walmart.ca/en',
-    startDate: '2022-07-27',
-    endDate: '',
-    highlights: [
-      'Collaborated with cross functional teams and educated other associates on tools, tasks, and resources.',
-      'Provided top-notch customer service by communicating effectively and applying interpersonal skills.',
-      'Increased sales by 10% and improved shopping experience by leveraging handheld digital tools.',
-      'Exercised problem solving at the highest level in resolving customer problems and optimizing products as per customer requirements.',
-    ],
-  },
 ];
 
 export default work;
