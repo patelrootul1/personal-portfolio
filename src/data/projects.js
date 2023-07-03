@@ -7,8 +7,8 @@ const data = [
     image: '/images/projects/TradeSocial.png',
     date: '2023-06-22',
     desc:
-      'Implemented Airstack APIs to fetch the data using the user address'
-      + 'React.js was used to develop the application'
+      'Implemented Airstack APIs to fetch the data using the user address;'
+      + 'React.js was used to develop the application;'
       + 'Won prize at ethGlobal Waterloo 2023',
   },
   {
