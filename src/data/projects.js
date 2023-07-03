@@ -1,6 +1,17 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Trade Social',
+    subtitle: 'Social Media for crypto Traders',
+    link: 'https://github.com/AryanAmin/SafeSphere',
+    image: '/images/projects/TradeSocial.png',
+    date: '2023-06-22',
+    desc:
+      'Implemented Airstack APIs to fetch the data using the user address'
+      + 'React.js was used to develop the application'
+      + 'Won prize at ethGlobal Waterloo 2023',
+  },
+  {
     title: 'Weather based Electricity Consumption Prediction Using Big Data Analytics',
     subtitle: 'Machine Learning Model Predicting Electricity Consumption',
     link: 'https://github.com/patelrootul1/weather-app',
@@ -32,17 +43,6 @@ const data = [
       'Implemented CRUD database using Sqlite for effective storage of database;'
       + 'Used Object Oriented Programming by creating student class which would allow storing data using object;'
       + 'Implemented Navigation Drawer, Recycler view and Fragments for smooth operations.',
-  },
-  {
-    title: 'Reaction timer using Vue.js',
-    subtitle: 'JavaScript Framework-Vue.js',
-    link: 'https://reaction-timer-1796f.web.app/',
-    image: '/images/projects/reactiontimer.jpg',
-    date: '2023-04-16',
-    desc:
-      'Implemented Vue.js Framework for making simple Reaction timer app;'
-      + 'Used Random function between 2-7 seconds to randomly generate a component to allow;'
-      + 'It will allow users to improve their reactions',
   },
 ];
 
