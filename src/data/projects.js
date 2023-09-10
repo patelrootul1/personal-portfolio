@@ -1,6 +1,17 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'FoundIt',
+    subtitle: 'Lost and Found for Conestoga College',
+    link: 'https://github.com/patelrootul1/FoundIt',
+    image: '/images/projects/FoundIt_Brochure.png',
+    date: '2023-08-19',
+    desc:
+      'Cross Platform mobile application using React Native framework'
+      + 'Leveraged Firebase auth,firestore and storage for backend services;'
+      + 'Deployed on expo servers by making it production ready;',
+  },
+  {
     title: 'Trade Social',
     subtitle: 'Social Media for crypto Traders',
     link: 'https://github.com/AryanAmin/SafeSphere',
