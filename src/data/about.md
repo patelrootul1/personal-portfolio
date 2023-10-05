@@ -2,13 +2,15 @@
 
 - Welcome to my website! I'm a highly motivated software development professional with a strong foundation in computer science and experience as a cyber security analyst with Tata Consultancy Services.
 
-- Currently, I'm pursuing a post-graduate degree in mobile application development, with a focus on developing cutting-edge applications that are both user-friendly and secure. I've also completed my Bachelor's degree in computer science and possess strong skills in programming languages such as C++,C#,JAVA and JavaScript frameworks(React,Vuejs).
+- Recently, I graduated from Conestoga College with specialization in mobile application development, with a focus on developing cutting-edge applications that are both user-friendly and secure. I've also completed my Bachelor's degree in computer science and possess strong skills in programming languages such as C++,C#,JAVA and JavaScript frameworks(React,Vuejs).
 
-- Throughout my career, I've been passionate about developing innovative software solutions that exceed user expectations. I have a proven track record of delivering projects on time and under budget while ensuring the highest levels of quality and security.
+- Throughout my career, I've been passionate about developing innovative and secure software solutions that exceed user expectations. I have a proven track record of delivering projects on time and under budget while ensuring the highest levels of quality and security.
 
 - As a software developer, I thrive in fast-paced environments where I can apply my skills and knowledge to create meaningful solutions that make a real impact. I'm currently seeking new opportunities in software development where I can continue to grow and make a positive difference in the industry.
 
-- Thank you for visiting my profile and I look forward to connecting with you!
+- I apply my cyber security experience in making applications and software secure and threat resistant.
+
+- Thank you for visiting my webste and I look forward to connecting with you!
 
 # Some history
 
@@ -34,7 +36,7 @@
 
 - I love to drive long journeys.
 - I once drove car for 8hr Non-Stop.
-- Connect with to learn more facts about me.
+- Connect with me to learn more facts about me.
 
 # I dream of
 
