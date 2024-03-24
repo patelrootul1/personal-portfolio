@@ -1,6 +1,8 @@
 # Intro
 
-- Welcome to my website! I'm a highly motivated software development professional with a strong foundation in computer science and experience as a cyber security analyst with Tata Consultancy Services.
+- Welcome to my website! I'm a highly motivated Cyber Security professional with a strong foundation in computer science and experience as a cyber security analyst with Tata Consultancy Services.
+
+- Recently, Preparing for Comptia A+ certification.
 
 - Recently, I graduated from Conestoga College with specialization in mobile application development, with a focus on developing cutting-edge applications that are both user-friendly and secure. I've also completed my Bachelor's degree in computer science and possess strong skills in programming languages such as C++,C#,JAVA and JavaScript frameworks(React,Vuejs).
 
