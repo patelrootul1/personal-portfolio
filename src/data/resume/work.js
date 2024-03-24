@@ -13,6 +13,20 @@
  */
 const work = [
   {
+    name: 'TD Synnex',
+    position: 'Computer Technician',
+    url: 'https://www.tdsynnex.com/na/ca/',
+    startDate: '2023-09-05',
+    endDate: '',
+    highlights: [
+      'Collaborated with product testing team by setting up DHCP, FTP servers, leading to testing Firmware version and custom URL on Business IP Phone. Shipped products on daily basis by adhering to Turn Around Time of 10 Days.',
+      'Performed basic set-up, calibration and testing, computer assembly, component insertion, and custom windows imaging for HP Laptops.',
+      'Utilized Python script automation to speed up the process of capturing data. Collected Data in MS – Excel and Uploaded to SharePoint.',
+      'Managed more than 150 daily Units, with different complexity and strong attention to detail.',
+      'Participated in meetings every Tuesday, discussed problem faced, requirement and achievement leading to effective team bonding.',
+    ],
+  },
+  {
     name: 'Tata Consultancy Services',
     position: 'Systems Engineer (Cyber Security Analyst)',
     url: 'https://www.tcs.com/',
