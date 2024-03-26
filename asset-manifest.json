@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/personal-portfolio/static/css/main.3fc8ac9a.css",
-    "main.js": "/personal-portfolio/static/js/main.7222332e.js",
+    "main.js": "/personal-portfolio/static/js/main.c8062096.js",
     "static/js/964.4ac2dac5.chunk.js": "/personal-portfolio/static/js/964.4ac2dac5.chunk.js",
     "static/js/117.88860fda.chunk.js": "/personal-portfolio/static/js/117.88860fda.chunk.js",
     "static/js/478.b7008c21.chunk.js": "/personal-portfolio/static/js/478.b7008c21.chunk.js",
@@ -11,11 +11,11 @@
     "static/js/248.ded7ea3d.chunk.js": "/personal-portfolio/static/js/248.ded7ea3d.chunk.js",
     "static/js/209.32193747.chunk.js": "/personal-portfolio/static/js/209.32193747.chunk.js",
     "static/js/625.7a73acbd.chunk.js": "/personal-portfolio/static/js/625.7a73acbd.chunk.js",
-    "static/js/745.dd1a250d.chunk.js": "/personal-portfolio/static/js/745.dd1a250d.chunk.js",
+    "static/js/745.fd9d0160.chunk.js": "/personal-portfolio/static/js/745.fd9d0160.chunk.js",
     "static/media/about.md": "/personal-portfolio/static/media/about.0536e103b1a0e839cc18.md",
     "index.html": "/personal-portfolio/index.html",
     "main.3fc8ac9a.css.map": "/personal-portfolio/static/css/main.3fc8ac9a.css.map",
-    "main.7222332e.js.map": "/personal-portfolio/static/js/main.7222332e.js.map",
+    "main.c8062096.js.map": "/personal-portfolio/static/js/main.c8062096.js.map",
     "964.4ac2dac5.chunk.js.map": "/personal-portfolio/static/js/964.4ac2dac5.chunk.js.map",
     "117.88860fda.chunk.js.map": "/personal-portfolio/static/js/117.88860fda.chunk.js.map",
     "478.b7008c21.chunk.js.map": "/personal-portfolio/static/js/478.b7008c21.chunk.js.map",
@@ -24,10 +24,10 @@
     "18.65542087.chunk.js.map": "/personal-portfolio/static/js/18.65542087.chunk.js.map",
     "248.ded7ea3d.chunk.js.map": "/personal-portfolio/static/js/248.ded7ea3d.chunk.js.map",
     "209.32193747.chunk.js.map": "/personal-portfolio/static/js/209.32193747.chunk.js.map",
-    "745.dd1a250d.chunk.js.map": "/personal-portfolio/static/js/745.dd1a250d.chunk.js.map"
+    "745.fd9d0160.chunk.js.map": "/personal-portfolio/static/js/745.fd9d0160.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3fc8ac9a.css",
-    "static/js/main.7222332e.js"
+    "static/js/main.c8062096.js"
   ]
 }
