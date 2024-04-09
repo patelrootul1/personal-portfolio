@@ -19,7 +19,7 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Rootul. I am recent graduate from <a href="https://www.conestogac.on.ca/">Conestoga College</a> with specialization in Mobile Application development, <a href="https://www.tcs.com/">Tata Consultancy Services</a> Alumni, <a href="https://www.srmist.edu.in/department/department-of-computer-science/">SRM Institute Of Science and Technology</a> graduate.
+      <p>Hi, I&apos;m Rootul. <a href="https://www.credly.com/badges/a45f089a-6d44-4a5e-a2b7-5646446a6933/linked_in?t=sa46lu">Comptia A+</a> certified and experienced IT technician, graduated from <a href="https://www.conestogac.on.ca/">Conestoga College</a> with specialization in Mobile Application development, <a href="https://www.tcs.com/">Tata Consultancy Services</a> Alumni, <a href="https://www.srmist.edu.in/department/department-of-computer-science/">SRM Institute Of Science and Technology</a> graduate.
       </p>
       <ul className="actions">
         <li>
