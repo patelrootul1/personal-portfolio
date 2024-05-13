@@ -23,6 +23,8 @@ const work = [
       'Performed basic set-up, calibration and testing, computer assembly, component insertion, and custom windows imaging for HP Laptops.',
       'Utilized Python script automation to speed up the process of capturing data. Collected Data in MS – Excel and Uploaded to SharePoint.',
       'Managed more than 150 daily Units, with different complexity and strong attention to detail.',
+      'Executed bitlocker drive encryption on more than 5000 Lenovo laptops by utilizing powershell script.',
+      'Assembled and configured HP A4 and A3 printer as per customization request from client.',
       'Participated in meetings every Tuesday, discussed problem faced, requirement and achievement leading to effective team bonding.',
     ],
   },
